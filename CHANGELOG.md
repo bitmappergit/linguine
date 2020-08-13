@@ -1,4 +1,4 @@
-# Revision history for linguini
+# Revision history for linguine
 
 ## 0.1.0.0 -- YYYY-mm-dd
 
